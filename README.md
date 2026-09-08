@@ -43,3 +43,5 @@ Curso de Ciberseguridad — Cisco
 <p align="center">
   <i>"Aprender, automatizar y resolver problemas, un proyecto a la vez."</i>
 </p>
+
+![GitHub Stats Card](https://ghstats.dev/api/card?username=JhonLipaSRT&theme=radical&border_radius=28.5)
