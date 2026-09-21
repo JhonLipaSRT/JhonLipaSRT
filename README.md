@@ -45,3 +45,5 @@ Curso de Ciberseguridad — Cisco
 </p>
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=JhonLipaSRT&theme=radical&border_radius=28.5)
+
+ese es el mio solo optimizalo no cambies nada que todo siga igual si no cambia la forma de como esta ordenado y me lo vuelves a mandar para copiar ¿y pegar 
