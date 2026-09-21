@@ -4,14 +4,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingenier%C3%ADa+de+Software+%F0%9F%92%BB;Desarrollo+apps+Android+con+Kotlin+%F0%9F%A4%96;Automatizaci%C3%B3n+de+procesos+y+chatbots+%E2%9A%99%EF%B8%8F;Soporte+t%C3%A9cnico+%26+FTTH+%F0%9F%93%A1" alt="Typing SVG" />
 </p>
 ---
-🚀 Sobre mí
-🎓 Estudiando Ingeniería de Software en la Universidad Tecnológica del Perú (UTP) — 4.° ciclo
-🛠️ Gestiono y desarrollo soluciones digitales para mi propio emprendimiento, Sistemas Latam Corp.
-📱 Actualmente desarrollo una app en Kotlin para automatizar procesos administrativos de negocio
-📡 Experiencia previa en soporte técnico, telecomunicaciones FTTH y gestión de operaciones/almacén
-🌱 Aprendiendo constantemente sobre bases de datos, programación orientada a objetos y buenas prácticas
-💬 Pregúntame sobre: Android, automatización con Tasker/Termux, chatbots o gestión de operaciones
-📫 Cómo contactarme: db7917760@gmail.com
+### 🚀 Sobre mí
+
+* 🎓 **Estudiando Ingeniería de Software** en la Universidad Tecnológica del Perú (UTP) — 4.° ciclo.
+* 🛠️ **Gestiono y desarrollo** soluciones digitales para mi propio emprendimiento, Sistemas Latam Corp.
+* 📱 **Actualmente desarrollo** una app en Kotlin para automatizar procesos administrativos de negocio.
+* 📡 **Experiencia previa** en soporte técnico, telecomunicaciones FTTH y gestión de operaciones/almacén.
+* 🌱 **Aprendiendo constantemente** sobre bases de datos, programación orientada a objetos y buenas prácticas.
+* 💬 **Pregúntame sobre:** Android, automatización con Tasker/Termux, chatbots o gestión de operaciones.
+* 📫 **Cómo contactarme:** db7917760@gmail.com
 ---
 🧰 Tecnologías y herramientas
 <p align="left">
@@ -46,4 +47,4 @@ Curso de Ciberseguridad — Cisco
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=JhonLipaSRT&theme=radical&border_radius=28.5)
 
-ese es el mio solo optimizalo no cambies nada que todo siga igual si no cambia la forma de como esta ordenado y me lo vuelves a mandar para copiar ¿y pegar 
+ 
